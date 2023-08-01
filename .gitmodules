@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "nparACT"]
-	path = nparACT
-	url = https://github.com/cran/nparACT
 [submodule "SleepCycles"]
 	path = SleepCycles
 	url = https://github.com/christineblume/sleepcycles
+[submodule "nparACT"]
+	path = nparACT
+	url = https://github.com/cran/nparACT
