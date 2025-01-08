@@ -7,4 +7,4 @@
 	url = https://github.com/christineblume/sleepcycles
 [submodule "nparACT"]
 	path = nparACT
-	url = https://github.com/cran/nparACT
+	url = https://github.com/christineblume/nparact
